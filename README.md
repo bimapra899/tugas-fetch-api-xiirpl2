@@ -12,7 +12,7 @@
 | 6   | Nama Siswa 6        | [Belum/Menunggu/OK]| [Link Tugas 6](URL_Tugas_6)    |
 | 7   | Nama Siswa 7        | [Belum/Menunggu/OK]| [Link Tugas 7](URL_Tugas_7)    |
 | 8   | Nama Siswa 8        | [Belum/Menunggu/OK]| [Link Tugas 8](URL_Tugas_8)    |
-| 9   | Muhammad Ariffian C.P.        | [OK]| [Link Tugas 9](https://github.com/fian910/Fetch_Api)    |
+| 9   | Nama Siswa 9        | [Belum/Menunggu/OK]| [Link Tugas 9](URL_Tugas_9)    |
 | 10  | Nama Siswa 10       | [Belum/Menunggu/OK]| [Link Tugas 10](URL_Tugas_10)  |
 | 11  | Muhammad.Eka Rifqi Jauhar       | [OK]| [Link Tugas 11](https://github.com/ekarifqijauhar23/FETCH.API)  |
 | 12  | Nama Siswa 12       | [Belum/Menunggu/OK]| [Link Tugas 12](URL_Tugas_12)  |
@@ -35,7 +35,7 @@
 | 29  | Nama Siswa 29       | [Belum/Menunggu/OK]| [Link Tugas 29](URL_Tugas_29)  |
 | 30  | Nama Siswa 30       | [Belum/Menunggu/OK]| [Link Tugas 30](URL_Tugas_30)  |
 | 31  | Nama Siswa 31       | [Belum/Menunggu/OK]| [Link Tugas 31](URL_Tugas_31)  |
-| 32  | Nama Siswa 32       | [Belum/Menunggu/OK]| [Link Tugas 32](URL_Tugas_32)  |
+| 32  | Satria Bima Pranama       |[OK]| [Link Tugas 32](https://github.com/bimapra899/ui.fit_hub)  |
 | 33  | Nama Siswa 33       | [Belum/Menunggu/OK]| [Link Tugas 33](URL_Tugas_33)  |
 | 34  | Nama Siswa 34       | [Belum/Menunggu/OK]| [Link Tugas 34](URL_Tugas_34)  |
 | 35  | Nama Siswa 35       | [Belum/Menunggu/OK]| [Link Tugas 35](URL_Tugas_35)  |
